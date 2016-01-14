@@ -1,0 +1,9 @@
+# Virtualenv/
+.Python
+flask
+venv
+
+# Packages
+bin
+lib
+
